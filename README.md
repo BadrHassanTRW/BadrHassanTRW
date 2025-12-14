@@ -119,5 +119,3 @@ interface HeroSection_Developer {
   <img src="https://img.shields.io/badge/Caffeine_Level-CRITICAL-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bugs_Squashed-Infinite-yellow?style=for-the-badge" />
 </div>
-
----
