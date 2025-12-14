@@ -121,18 +121,3 @@ interface HeroSection_Developer {
 </div>
 
 ---
-
-<!-- 8. SYSTEM CONTROL PANEL -->
-### 🎛️ System Control Panel
-
-<div align="center">
-  <!-- TROPHIES -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BadrHassanTRW&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-  
-  <br/><br/>
-  
-  <!-- UPTIME (STREAK ONLY) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BadrHassanTRW&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" height="170" />
-</div>
