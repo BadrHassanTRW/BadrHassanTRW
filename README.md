@@ -1,4 +1,4 @@
-<!-- 1. HERO SECTION (INTERFACE) -->
+<!-- 1. HERO SECTION (INTERFACE)  -->
 ```typescript
 interface HeroSection_Developer {
     username: "BadrHassanTRW";
