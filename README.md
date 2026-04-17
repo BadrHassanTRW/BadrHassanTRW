@@ -1,73 +1,70 @@
-<!-- 1. HERO SECTION (SEO + INTERFACE) -->
+<!-- 1. HERO SECTION (THE SEO ENGINE) -->
 <div align="center">
-  <!-- THE SEO PFP HACK: You MUST upload a picture named 'badr-git.jpg' to this repository -->
-  <img src="badr-git-profile.jpg" alt="badr git profile picture" width="180" style="border-radius:50%; margin-bottom: 15px;">
+  <!-- SEO PFP: Ensure your file is named badr-git-profile.jpg in this repo -->
+  <img src="badr-git-profile.jpg" alt="Badr Hassan Badr Git Profile Picture" width="180" style="border-radius:50%; border: 3px solid #38bdf8; margin-bottom: 15px;">
   
-  <h1>Hi, I'm Badr 👋</h1>
+  <h1>Badr Hassan</h1>
+  <h3>Full Stack Engineer | Creator of Badr AG (AI Agent)</h3>
 
-  <!-- Typing Header (Made transparent to work on Light & Dark mode) -->
+  <!-- Typing Header -->
   <a href="https://github.com/BadrHassanTRW">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=echo+%22Init+Sequence...%22;npm+run+build:AG_AI_Agent;git+commit+-m+%22Won+Youth+in+Lead+🥇%22;print(%22Hello+World%22)&font=Fira%20Code&center=true&width=600&height=50&color=38bdf8&vCenter=true&size=20" alt="badr git terminal" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=echo+%22Init+Sequence...%22;npm+run+build:Badr_AI_Agent;git+commit+-m+%22Badr+Hassan+Won+Youth+in+Lead+🥇%22;print(%22Hello+World+from+Badr+Git%22)&font=Fira%20Code&center=true&width=600&height=50&color=38bdf8&vCenter=true&size=20" alt="Badr Hassan Badr Git Terminal" />
   </a>
 </div>
 
 ```typescript
 interface Developer_Profile {
-    username: "BadrHassanTRW";
+    name: "Badr Hassan";
     alias: "Badr Git";
     role: "Full Stack Dev & Student Entrepreneur";
-    school: "We School For Applied Technology";
-    current_focus: "Building AG (AI Agent)";
+    origin: "Cairo, Egypt";
+    focus: "Badr AG (Agentic AI Framework)";
     status: "Winning Hackathons 🏆";
 }
 ```
 
-<!-- 2. GITHUB STATS (NEW ADDITION FOR PROFESSIONALISM) -->
+<!-- 2. GITHUB ANALYTICS (RADICAL THEME) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BadrHassanTRW&show_icons=true&theme=radical&hide_border=true" alt="badr git stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadrHassanTRW&layout=compact&theme=radical&hide_border=true" alt="badr git top languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BadrHassanTRW&show_icons=true&theme=radical&hide_border=true" alt="Badr Hassan GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadrHassanTRW&layout=compact&theme=radical&hide_border=true" alt="Badr Hassan Programming Languages" height="150"/>
 </div>
 <br/>
 
-<!-- 3. SKILLS TABLE (FRONTEND / CORE / BACKEND) -->
+<!-- 3. SKILLS & CONNECT TABLE -->
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-        <b>✨ The Frontend (UI)</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap&perline=3" alt="frontend skills" />
+        <b>✨ The Frontend</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap&perline=3" alt="Badr Hassan Frontend Skills" />
     </td>
     <td align="center" width="33%">
-        <b>🧠 The Core (Me)</b><br/><br/>
-        <a href="https://www.linkedin.com/in/badr-hassan-trw-96614b334/">
-            <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+        <b>🧠 Connect with Badr</b><br/><br/>
+        <!-- UPDATED LINKEDIN URL -->
+        <a href="https://www.linkedin.com/in/badr-hassan-git/">
+            <img src="https://img.shields.io/badge/LinkedIn-Badr_Hassan-0077B5?style=for-the-badge&logo=linkedin" alt="Badr Hassan LinkedIn" />
         </a>
         <br/><br/>
-        <!-- CHANGE THE URL BELOW TO YOUR ACTUAL PORTFOLIO -->
         <a href="https://YOUR_PORTFOLIO_URL_HERE.com">
-            <img src="https://img.shields.io/badge/Portfolio-Visit_HQ-FF6B6B?style=for-the-badge&logo=firefox" alt="Portfolio" />
+            <img src="https://img.shields.io/badge/Portfolio-Badr_Hassan-FF6B6B?style=for-the-badge&logo=firefox" alt="Badr Hassan Portfolio" />
         </a>
         <br/><br/>
         <a href="https://time.is/Cairo">
-          <img src="https://img.shields.io/badge/Cairo%20Time-Africa%2FCairo-8A2BE2?style=flat&logo=clock" alt="Timezone" />
+          <img src="https://img.shields.io/badge/Cairo%20Time-Africa%2FCairo-8A2BE2?style=flat&logo=clock" alt="Badr Hassan Local Time" />
         </a>
     </td>
     <td align="center" width="33%">
-        <b>⚙️ The Engine (Backend)</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,py&perline=3" alt="backend skills" />
+        <b>⚙️ The Engine</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,py&perline=3" alt="Badr Hassan Backend Skills" />
     </td>
   </tr>
 </table>
 
-<!-- LEARNING QUEUE (PENDING UPDATES) -->
+<!-- LEARNING QUEUE -->
 <div align="center">
   <br/>
   <b>📥 Pending System Updates (Learning Queue)</b>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,aws,firebase,supabase&perline=10" alt="learning tech" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Hosting-Server_Mgmt-blue?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/Payments-Cash_Handling-green?style=flat-square&logo=stripe" />
-  <img src="https://img.shields.io/badge/Animation-GSAP-green?style=flat-square&logo=greensock" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,aws,firebase,supabase&perline=10" alt="Badr Hassan Tech Learning" />
 </div>
 
 <br/>
@@ -75,7 +72,7 @@ interface Developer_Profile {
 <!-- 4. TEXT ANIMATIONS (OPINIONS) -->
 <div align="center">
   <a href="https://github.com/BadrHassanTRW">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Light+Mode+attracts+bugs.%22;%22CSS+is+harder+than+Backend.%22;%22Gym+runs+compile+faster.%22;%22It+works+on+my+machine!%22&font=Courier+Prime&center=true&width=600&height=50&color=00FF99&vCenter=true&pause=1000&size=16" alt="badr git opinions" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Light+Mode+attracts+bugs.%22;%22CSS+is+harder+than+Backend.%22;%22Badr+Git+runs+compile+faster.%22;%22Building+the+Future+in+Egypt.%22&font=Courier+Prime&center=true&width=600&height=50&color=00FF99&vCenter=true&pause=1000&size=16" alt="Badr Hassan Developer Quotes" />
   </a>
 </div>
 
@@ -83,36 +80,27 @@ interface Developer_Profile {
 
 <!-- 5. SNAKE GAME -->
 <div align="center">
-  <h3>🐍 The Code Stream</h3>
-  <!-- Make sure you have the snake game GitHub Action set up! -->
-  <img src="https://github.com/BadrHassanTRW/BadrHassanTRW/raw/output/github-contribution-grid-snake.svg" alt="badr git contribution snake" width="100%"/>
+  <h3>🐍 Badr's Code Stream</h3>
+  <img src="https://github.com/BadrHassanTRW/BadrHassanTRW/raw/output/github-contribution-grid-snake.svg" alt="Badr Hassan GitHub Snake" width="100%"/>
 </div>
 
 ---
 
-<!-- 6. RANDOM JOKE -->
-<div align="center">
- <h3>🤡 Random Dev Joke</h3>
- <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="badr git developer joke" width="400" />
-</div>
-
----
-
-<!-- 7. SYSTEM LOGS (RECENT ACTIVITY) -->
-### 📜 System Logs (Recent Activity)
+<!-- 6. SYSTEM LOGS (RECENT ACTIVITY) -->
+### 📜 Badr Hassan System Logs (Recent Activity)
 
 ```bash
 [SUCCESS] 🥇 WINNER: Youth in Lead Competition
           > Ranked 1st out of 37 Teams
-          > Project: "AG" (AI-Powered Agentic Assistant)
+          > Project: "Badr AG" (AI-Powered Agentic Assistant)
 
 [DEPLOY]  🚀 ISEF Competition
           > Advanced through 3 phases with AG AI Project.
-          > Focus: STEM Research & Innovation.
+          > Focus: STEM Research & Innovation by Badr Hassan.
 
 [NETWORK] 📡 Google DevFest & Cairo ICT 2024
           > Explored Deep Learning & UI/UX Trends.
-          > Connected with industry leaders @ Telecom Egypt.
+          > Connected with industry leaders in Egypt.
 
 [UPDATE]  🌱 Sustainability Patch
           > Project: "PTO Green House" (Presented at AIS).
@@ -121,15 +109,18 @@ interface Developer_Profile {
 
 ---
 
-<!-- 8. HUMAN STATS -->
-### 🧬 The Human Stats
+<!-- 7. HUMAN STATS -->
+### 🧬 Human Stats
 <div align="center">
   <img src="https://img.shields.io/badge/Gym_Status-Active-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Caffeine_Level-CRITICAL-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bugs_Squashed-Infinite-yellow?style=for-the-badge" />
 </div>
 
-<!-- HIDDEN SEO KEYWORDS FOR GOOGLE IMAGES -->
-<div style="display:none;">
-  badr git, badr github, badr hassan trw, badr git profile picture, we school for applied technology, ag ai agent, badr software developer egypt.
+<!-- 8. EXTREME HIDDEN SEO (DO NOT REMOVE) -->
+<div style="display:none;" aria-hidden="true">
+  <h1>Badr</h1>
+  <h2>Badr Hassan</h2>
+  <h3>Badr Git</h3>
+  <p>Badr Hassan is a software engineer and AI developer from Cairo, Egypt. This is the official Badr Git GitHub profile. Badr Hassan specializes in Full Stack Web Development, React, Python, and the AG AI Agent. Winner of Youth in Lead. Student at We School for Applied Technology. BadrHassanTRW profile.</p>
 </div>
