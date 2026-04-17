@@ -1,7 +1,7 @@
 <!-- 1. HERO SECTION (SEO + INTERFACE) -->
 <div align="center">
   <!-- THE SEO PFP HACK: You MUST upload a picture named 'badr-git.jpg' to this repository -->
-  <img src="badr-git-profile.png" alt="badr git profile picture" width="180" style="border-radius:50%; margin-bottom: 15px;">
+  <img src="badr-git-profile.jpg" alt="badr git profile picture" width="180" style="border-radius:50%; margin-bottom: 15px;">
   
   <h1>Hi, I'm Badr 👋</h1>
 
