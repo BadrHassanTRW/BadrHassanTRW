@@ -4,7 +4,7 @@
   <img src="badr-git-profile.jpg" alt="Badr Hassan Badr Git Profile Picture" width="180" style="border-radius:50%; border: 3px solid #38bdf8; margin-bottom: 15px;">
   
   <h1>Badr Hassan</h1>
-  <h3>Full Stack Engineer | Creator of Badr AG (AI Agent)</h3>
+  <h3>Full Stack Engineer</h3>
 
   <!-- Typing Header -->
   <a href="https://github.com/BadrHassanTRW">
@@ -18,7 +18,7 @@ interface Developer_Profile {
     alias: "Badr Git";
     role: "Full Stack Dev & Student Entrepreneur";
     origin: "Cairo, Egypt";
-    focus: "Badr AG (Agentic AI Framework)";
+    focus: "AG (Agentic AI Framework)";
     status: "Winning Hackathons 🏆";
 }
 ```
@@ -118,9 +118,10 @@ interface Developer_Profile {
 </div>
 
 <!-- 8. EXTREME HIDDEN SEO (DO NOT REMOVE) -->
-<div style="display:none;" aria-hidden="true">
+<details>
+  <summary>More about Badr (Click to expand)</summary>
   <h1>Badr</h1>
   <h2>Badr Hassan</h2>
   <h3>Badr Git</h3>
-  <p>Badr Hassan is a software engineer and AI developer from Cairo, Egypt. This is the official Badr Git GitHub profile. Badr Hassan specializes in Full Stack Web Development, React, Python, and the AG AI Agent. Winner of Youth in Lead. Student at We School for Applied Technology. BadrHassanTRW profile.</p>
-</div>
+  <p>Badr Hassan is a software engineer and AI developer from Cairo, Egypt. This is the official Badr Hassan Git GitHub profile. Badr Hassan specializes in Full Stack Web Development, React, Python, and the AG AI Agent. Winner of Youth in Lead. Student at We School for Applied Technology. BadrHassanTRW profile.</p>
+</details>
